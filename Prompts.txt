@@ -11,3 +11,6 @@ I have 4 cisco switches, with DNS names "SW1" to "SW4". Write a python script to
 
 Prompt 004
 I have 4 cisco switches, with DNS names "SW1" to "SW4". Write a python script to show any interface errors on the Cisco switches.
+
+Prompt 005
+I have 4 cisco switches, with DNS names "SW1" to "SW4". Write a python script to login to each switch and check why the network is slow.
