@@ -1,3 +1,5 @@
+Testing ChatGTP with Cisco network switches
+
 Prompt 001
 Write a python script to show all loopback interface IP addresses
 
