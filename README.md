@@ -1,3 +1,3 @@
 # ChatGTP-AI-Python-Testing
 
-Testing ChatGTP with Cisco network switches
+Testing ChatGTP (AI) with Cisco network switches
