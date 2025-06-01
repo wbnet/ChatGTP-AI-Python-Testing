@@ -8,3 +8,6 @@ Write a python script to show all loopback interface IP addresses on a Cisco swi
 
 Prompt 003
 I have 4 cisco switches, with DNS names "SW1" to "SW4". Write a python script to show all loopback interface IP addresses on the Cisco switches.
+
+Prompt 004
+I have 4 cisco switches, with DNS names "SW1" to "SW4". Write a python script to show any interface errors on the Cisco switches.
