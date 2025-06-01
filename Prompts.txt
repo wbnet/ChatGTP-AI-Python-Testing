@@ -1,0 +1,5 @@
+Write a python script to show all loopback interface IP addresses
+
+Write a python script to show all loopback interface IP addresses on a Cisco switch
+
+I have 4 cisco switches, with DNS names "SW1" to "SW4". Write a python script to show all loopback interface IP addresses on the Cisco switches.
